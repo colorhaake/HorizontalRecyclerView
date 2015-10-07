@@ -135,7 +135,7 @@ parent.getViewTreeObserver().addOnGlobalLayoutListener(new ViewTreeObserver.OnGl
 # Screenshots
 Main page
 
-![Alt text](images/HorizontalRecycleView_Main.png?raw=true "Main page")
+![Alt text](images/HorizontalRecycleView_Main.gif?raw=true "Main page")
 
 # References
 + RecyclerView introduction
